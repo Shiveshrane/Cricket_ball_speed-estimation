@@ -63,16 +63,20 @@ python main.py --video path to your video
 
 ## Future Improvements
 
+- Improved Ball Detection:
+Use better models trained on larger and higher quality datasets for more accurate ball detection.
+
 - Speed Accuracy Improvements:
 Implement more advanced filtering techniques to reduce noise in speed estimations.
-Incorporate ball spin detection for more accurate trajectory predictions.
 
-- Live ball tracking:
-  Apply techniques for real time speed detection of the cricket ball.
+- Trajectory Detection:
+Implement techniques for detecting ball trajectory and the point where the ball bounces on the pitch.
 
-- Multi-angle speed detection:
-  Right now, due to dataset inavailability and device constraints, this model is only compatible for videos captured from a particular view (the bowler end view). Would like to make it compatible for umpire's view for better implementation.
+- Live Ball Tracking:
+Apply techniques for real-time speed detection of the cricket ball.
 
+- Multi-angle Speed Detection:
+Currently, due to dataset unavailability and device constraints, this model is only compatible with videos captured from a particular view (the bowler's end view). Future work aims to make it compatible with the umpire's view for better implementation.
 
 
 
