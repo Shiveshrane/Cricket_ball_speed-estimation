@@ -1,6 +1,6 @@
 # Cricket Ball Speed Estimation
 This project utilizes computer vision techniques to estimate the speed of a cricket ball from video footage. It employs two YOLO (You Only Look Once) models for object detection and combines the results with geometric transformations to calculate ball speed.
-Technologies Used
+### Technologies Used
 
 - Python
 - YOLOv5
