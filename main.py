@@ -49,7 +49,5 @@ def main():
     else:
         print("Max ball speed: No valid speeds calculated")
 
-    save_video(output_frames, 'output_videos\\output_with_speed.mp4')
-
 if __name__ == "__main__":
     main()
