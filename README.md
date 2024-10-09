@@ -51,10 +51,14 @@ Speed is then calculated as distance over time.
 ```
 git clone https://github.com/Shiveshrane/Cricket_ball_speed-estimation.git
 cd Cricket_ball_speed_estimation
-pip install -r requirements.txt ```
+pip install -r requirements.txt
+ ```
+
 
 ### Run the Script:
-```python main.py --video path to your video```
+```
+python main.py --video path to your video
+```
 
 
 
