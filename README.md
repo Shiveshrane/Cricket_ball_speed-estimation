@@ -65,7 +65,7 @@ python main.py --video path to your video
 ## Future Improvements
 
 - Improved speed of calculation:
-  Implement techniques to reduce the speed of detections and improve the overall detection speed.
+  Implement techniques to improve the overall speed of estimation.
   
 - Improved Ball Detection:
 Use better models trained on larger and higher quality datasets for more accurate ball detection.
