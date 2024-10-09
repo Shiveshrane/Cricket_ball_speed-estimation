@@ -5,6 +5,7 @@ Technologies Used
 - Python
 - YOLOv5
 - Ultralytics
+- OpenCV
 
 ## Project Overview
 This project aims to estimate the speed of a cricket ball using video analysis. It employs two main components:
@@ -63,6 +64,9 @@ python main.py --video path to your video
 
 ## Future Improvements
 
+- Improved speed of calculation:
+  Implement techniques to reduce the speed of detections and improve the overall detection speed.
+  
 - Improved Ball Detection:
 Use better models trained on larger and higher quality datasets for more accurate ball detection.
 
