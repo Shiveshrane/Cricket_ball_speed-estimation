@@ -48,8 +48,8 @@ Speed is then calculated as distance over time.
 ## Setup and Usage
 
 ### Environment Setup:
-```python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
+git clone 
 pip install -r requirements.txt ```
 
 
