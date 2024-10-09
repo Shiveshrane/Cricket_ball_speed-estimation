@@ -45,11 +45,13 @@ The transformed ball positions are used to calculate the ball's displacement ove
 Knowing the frame rate of the video and the real-world dimensions of a cricket pitch, the system can convert pixel distances to real-world distances.
 Speed is then calculated as distance over time.
 
+## Setup and Usage
 
-### Data Storage:
+### Environment Setup:
+```python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+pip install -r requirements.txt ```
 
-All relevant data about the ball (position, speed, trajectory) is stored in a dictionary.
-This allows for easy access and further analysis of the ball's behavior throughout the video.
 
 
 
