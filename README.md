@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ### Run the Script:
 ```
-python main.py --video path to your video
+python main.py --video path_to_your_video
 ```
 
 
