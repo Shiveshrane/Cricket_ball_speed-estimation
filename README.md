@@ -80,7 +80,7 @@ Implement techniques for detecting ball trajectory and the point where the ball 
 Apply techniques for real-time speed detection of the cricket ball.
 
 - Multi-angle Speed Detection:
-Currently, due to dataset unavailability and device constraints, this model is only compatible with videos captured from a particular view (the bowler's end view). Future work aims to make it compatible with the umpire's view for better implementation for practical purposes.
+Currently, due to dataset unavailability and device constraints, this model is only compatible with videos captured from a particular view (the bowler's end view). Future work aims to make it compatible with the umpire's view for better practical implementations.
 
 
 
